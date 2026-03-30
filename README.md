@@ -2,7 +2,7 @@
 
 **Built with:** Snowflake Native App Framework · Streamlit in Snowflake · Snowflake Cortex · ACCOUNT_USAGE
 
-📹 [Watch the demo](https://drive.google.com/file/d/1z_PMYF6sPhQRMQRLturCE32IJ1rqyWnc/view?usp=drive_link)
+📹 [Watch the demo](https://drive.google.com/file/d/1MnQj7HDocVPx5JSycFAQMqguV9qdX7e2/view?usp=drive_link)
 
 ---
 
