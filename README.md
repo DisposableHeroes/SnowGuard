@@ -18,12 +18,12 @@ SnowGuard is a data quality monitoring app that installs directly into a Snowfla
 ## Features
 
 ### Tab 1 - Run Checks
-- **Null Percentage** - scans every column for missing data, shows affected rows
-- **Row Count Trend** - flags sudden drops or spikes vs. previous run
-- **Schema Drift** - detects added, removed, or renamed columns upstream
-- **Value Distribution** - statistical outlier detection for numeric and text columns
-- **AI Summary** - Snowflake Cortex generates a plain English explanation of findings
-- **Check History** - full audit log of every check run with timestamps and results
+- **Null Percentage**: scans every column for missing data, shows affected rows
+- **Row Count Trend**: flags sudden drops or spikes vs. previous run
+- **Schema Drift**: detects added, removed, or renamed columns upstream
+- **Value Distribution**: statistical outlier detection for numeric and text columns
+- **AI Summary**: Snowflake Cortex generates a plain English explanation of findings
+- **Check History**: full audit log of every check run with timestamps and results
 
 ### Tab 2 - Scheduled Monitoring
 - Add any table and set monitoring frequency (hourly / daily / weekly)
